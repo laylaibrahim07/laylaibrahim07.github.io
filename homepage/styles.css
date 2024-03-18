@@ -1,0 +1,22 @@
+h2
+{
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+    margin: 30px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70vh;
+    height: 90vh;
+}
+
+.c {
+    height: 200px;
+    width: 100%;
+}
